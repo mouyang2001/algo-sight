@@ -22,6 +22,9 @@ const useStyles = makeStyles({
     display: "inline-block",
     backgroundColor: "red",
   },
+  nodeVisited: {
+
+  }
 });
 
 export default function Node(props) {
